@@ -64,4 +64,4 @@
 2. `require('dotenv').config()` at the beginning of your Node js code (server.js)
 3. `KEY=value` in .env file
 4. `const key = process.env.KEY` in your Node js code
-5. If you're Node project contains a web server, you need to specify that it uses the right port number.  Heroku will set an environmental var named `PORT` that you can use, as in `port = process.env.PORT || 3000`
+5. If your Node project contains a web server, you need to specify that it uses the right port number.  Heroku will set an environmental var named `PORT` that you can use, as in `port = process.env.PORT || 3000`
