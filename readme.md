@@ -1,4 +1,4 @@
-# Cheat Sheet: Deploying Node Apps on Heroku
+# Cheat Sheet: Deploying Node Apps to Heroku Using CLI on MacOS
 
 
 ### Initialize and Deploy
